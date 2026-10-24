@@ -55,7 +55,7 @@ algorithms/
 
 This organization allows multiple implementations of the same algorithm to coexist while keeping language-specific code separated.
 
-## 🧮 Algorithms
+## Algorithms
 
 The repository is intended to cover a broad range of classic algorithms, including:
 
@@ -103,7 +103,7 @@ The repository is intended to cover a broad range of classic algorithms, includi
 
 The collection will grow over time as new algorithms & implementations are added.
 
-## 💻 Languages
+## Languages
 
 Implementations may be provided in multiple programming languages.
 
@@ -113,7 +113,7 @@ Currently, the repository contains implementations using:
 
 Additional languages can be added following the repository's organization conventions.
 
-## ▶️ Running an Implementation
+## Running an Implementation
 
 Each implementation may have its own requirements & execution instructions.
 
@@ -131,7 +131,7 @@ Then run it with:
 
 On systems where Clang is not available, another C compiler can generally be used instead.
 
-## 🎯 Learning Approach
+## Learning Approach
 
 The implementations in this repository prioritize **clarity and understanding** over excessive optimization or abstraction.
 
@@ -146,7 +146,7 @@ When studying an algorithm, consider:
 
 Where appropriate, implementations should be accompanied by explanations, examples, complexity analysis or tests.
 
-## 📊 Complexity
+## Complexity
 
 Understanding an algorithm's complexity is as important as understanding its implementation.
 
@@ -164,7 +164,7 @@ Common complexity classes encountered throughout the repository include:
 
 Complexity can vary depending on the specific implementation, input & algorithmic strategy.
 
-## 📖 Recommended Use
+## Recommended Use
 
 This repository is best used as a complement to algorithm & data-structure study rather than as a collection of copy-and-paste solutions.
 
